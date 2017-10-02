@@ -1,0 +1,13 @@
+{
+    "name": "anna/lesson16",
+    "description": "homework",
+    "authors": [
+        {
+            "name": "Anna V",
+            "email": "annvoitovich@gmail.com"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
